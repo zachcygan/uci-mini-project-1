@@ -1,0 +1,24 @@
+.display-inline li {
+    display: inline;
+    text-decoration: none;
+}
+
+.navbar {
+    padding: 0px 20px;
+}
+
+body {
+    position: relative;
+
+}
+
+header,
+footer {
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+}
+
+.text-center {
+    text-align: center;
+}
